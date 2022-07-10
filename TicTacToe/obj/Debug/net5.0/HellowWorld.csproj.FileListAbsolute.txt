@@ -1,0 +1,16 @@
+C:\Users\snowi\source\repos\HellowWorld\HellowWorld\bin\Debug\net5.0\HellowWorld.exe
+C:\Users\snowi\source\repos\HellowWorld\HellowWorld\bin\Debug\net5.0\HellowWorld.deps.json
+C:\Users\snowi\source\repos\HellowWorld\HellowWorld\bin\Debug\net5.0\HellowWorld.runtimeconfig.json
+C:\Users\snowi\source\repos\HellowWorld\HellowWorld\bin\Debug\net5.0\HellowWorld.runtimeconfig.dev.json
+C:\Users\snowi\source\repos\HellowWorld\HellowWorld\bin\Debug\net5.0\HellowWorld.dll
+C:\Users\snowi\source\repos\HellowWorld\HellowWorld\bin\Debug\net5.0\HellowWorld.pdb
+C:\Users\snowi\source\repos\HellowWorld\HellowWorld\obj\Debug\net5.0\HellowWorld.csproj.AssemblyReference.cache
+C:\Users\snowi\source\repos\HellowWorld\HellowWorld\obj\Debug\net5.0\HellowWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snowi\source\repos\HellowWorld\HellowWorld\obj\Debug\net5.0\HellowWorld.AssemblyInfoInputs.cache
+C:\Users\snowi\source\repos\HellowWorld\HellowWorld\obj\Debug\net5.0\HellowWorld.AssemblyInfo.cs
+C:\Users\snowi\source\repos\HellowWorld\HellowWorld\obj\Debug\net5.0\HellowWorld.csproj.CoreCompileInputs.cache
+C:\Users\snowi\source\repos\HellowWorld\HellowWorld\obj\Debug\net5.0\HellowWorld.dll
+C:\Users\snowi\source\repos\HellowWorld\HellowWorld\obj\Debug\net5.0\refint\HellowWorld.dll
+C:\Users\snowi\source\repos\HellowWorld\HellowWorld\obj\Debug\net5.0\HellowWorld.pdb
+C:\Users\snowi\source\repos\HellowWorld\HellowWorld\obj\Debug\net5.0\HellowWorld.genruntimeconfig.cache
+C:\Users\snowi\source\repos\HellowWorld\HellowWorld\obj\Debug\net5.0\ref\HellowWorld.dll
